@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bea Dot Com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bea Dot Com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>beatricestotz@gmail.com (Beatrice Stotz)</managingEditor>
+    <webMaster>beatricestotz@gmail.com (Beatrice Stotz)</webMaster>
+    <copyright>© 2025 Beatrice Stotz</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 14:36:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
+      <author>beatricestotz@gmail.com (Beatrice Stotz)</author>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/coursework/</link>
+      <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
+      <author>beatricestotz@gmail.com (Beatrice Stotz)</author>
+      <guid>http://localhost:1313/coursework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/diredatenight/</link>
+      <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
+      <author>beatricestotz@gmail.com (Beatrice Stotz)</author>
+      <guid>http://localhost:1313/diredatenight/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
