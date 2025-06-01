@@ -17,17 +17,17 @@
 
 [[main]]
   name = "Coursework"
-  pageRef = "coursework.md"
+  pageRef = "pages/coursework"
   weight = 20
 
 [[main]]
   name = "Dire Date Night"
-  pageRef = "diredatenight.md"
+  pageRef = "pages/diredatenight"
   weight = 30
 
 [[main]]
   name = "Resume"
-  url = "/BeatriceStotzResume.pdf"
+  url = "/files/resume.pdf"
   weight = 40
 
 [[main]]
@@ -70,7 +70,7 @@
 #  weight = 20
 
 #[[main]]
-#  name = "Tags"
+# name = "Tags"
 #  pageRef = "tags"
 #  weight = 30
 
