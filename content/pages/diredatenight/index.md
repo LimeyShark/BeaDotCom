@@ -10,7 +10,7 @@ draft = false
 
 Visit the [itch.io page](https://limeyshark.itch.io/dire-date-night) to play!
 
-Created using [RenPy](https://www.renpy.org/). All programming and art by me, dialogue written with the help of my girlfriend.
+Created using [RenPy](https://www.renpy.org/). All programming and art by me, dialogue written with the help of Valerie Katsumi.
 
 {{< figure src="ddnSC1.png" caption="*Dire Date Night main menu*" alt="menu screenshot" >}}
 

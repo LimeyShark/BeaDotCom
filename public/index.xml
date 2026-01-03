@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>beatricestotz@gmail.com (Beatrice Stotz)</managingEditor>
     <webMaster>beatricestotz@gmail.com (Beatrice Stotz)</webMaster>
-    <copyright>© 2025 Beatrice Stotz</copyright>
+    <copyright>© 2026 Beatrice Stotz</copyright>
     <lastBuildDate>Thu, 16 Jan 2025 14:36:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -27,6 +27,16 @@
       <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
       <author>beatricestotz@gmail.com (Beatrice Stotz)</author>
       <guid>http://localhost:1313/pages/diredatenight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/workexperience/</link>
+      <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
+      <author>beatricestotz@gmail.com (Beatrice Stotz)</author>
+      <guid>http://localhost:1313/pages/workexperience/</guid>
       <description></description>
       
     </item>

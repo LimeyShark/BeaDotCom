@@ -20,10 +20,15 @@
   pageRef = "pages/coursework"
   weight = 20
 
+  [[main]]
+  name = "Work Experience"
+  pageRef = "pages/workexperience"
+  weight = 30
+
 [[main]]
   name = "Dire Date Night"
   pageRef = "pages/diredatenight"
-  weight = 30
+  weight = 35
 
 [[main]]
   name = "Resume"

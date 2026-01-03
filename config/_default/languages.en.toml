@@ -17,8 +17,8 @@ title = "Bea Dot Com"
  [params.author]
    name = "Beatrice Stotz"
    email = "beatricestotz@gmail.com"
-   image = "images/beaHeadshot2.jpg"
-#   imageQuality = 96
+   image = "images/pic3.jpg"
+#   imageQuality = 200
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
 #   links = [
