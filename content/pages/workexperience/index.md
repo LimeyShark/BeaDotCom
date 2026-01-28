@@ -25,7 +25,7 @@ draft = false
 <h1 style="font-size:40px;">
   Cyber Intern
   <span style="font-size:30px; font-style: italic; font-weight: normal;">
-    <br>Protek IT Solutions
+    <br>Protek Information Technology Services
   </span>
 </h1>
 
